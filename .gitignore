@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated exports
+exports/*.pdf
+exports/*.docx
+
+# Temporary files
+*.tmp
+~$*
